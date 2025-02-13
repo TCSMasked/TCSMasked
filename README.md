@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello! I am TCSMasked. Your average teenage gamer with a good knowledge of code! I enjoy the aspect of coding as (in my eyes at least) it acts as building blocks to create something incredible. I do a bunch of different things from creating and coding gaming servers from the ground-up to creating professional websites and organizations, for example my very own org called MaskedNET. If you want to see more about MaskedNET and what it offers then you can head on over to https://maskednet.org/about | Here's some more information about myself!</p>
+<p align="center">Hello! I am TCSMasked. Your average teenage gamer with a good knowledge of code! I enjoy the aspect of coding as (in my eyes at least) it acts as building blocks to create something incredible. I do a bunch of different things from creating and coding gaming servers from the ground-up to creating professional websites and organizations, for example my very own server company called TCSNET. If you want to see more about TCSNET and what it offers then you can head on over to https://tcsnet.uk/about | Here's some more information about myself!</p>
 
 ###
 
