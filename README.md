@@ -3,14 +3,13 @@
 ###
 
 <p align="center">
-  I'm <strong>TCSMasked</strong> — a young gamer and passionate developer with a strong love for building things from the ground up.  
+  I'm <strong>TCSMasked</strong> — a young and passionate developer with a strong love for building things from the ground up.  
   I see coding as a set of creative building blocks that can be used to make something incredible.  
-  From coding and hosting gaming servers to designing professional websites and running organizations, I enjoy every step of the process.  
+  From hosting gaming servers and creating mods to designing professional websites and creating infrastructure, I enjoy every step of the process.  
 </p>
 
 <p align="center">
-  I’m also the founder of <strong>MaskedNET</strong>, a server hosting company I built from scratch.  
-  Want to know more? Visit <a href="https://maskednet.org/about" target="_blank">maskednet.org/about</a>.
+  If you want to see more from me or to just get in contact then please visit https://tcsmasked.com/
 </p>
 
 ---
@@ -42,26 +41,6 @@
   <a href="https://tcsmasked.com/twitter"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" /></a>
   <a href="https://tcsmasked.com/paypal"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" /></a>
   <a href="https://tcsmasked.com/youtube"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" /></a>
-</div>
-
----
-
-<h3 align="center">Music</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31r74vkj4iku4wwx6qb4cfln4h5q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
-
-<h3 align="center">My Favourite IDEs</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
 </div>
 
 ---
